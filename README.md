@@ -5,6 +5,8 @@
   <p>I'm focused on low-level systems and high-efficiency architectures. I prioritize performance, memory safety, and the removal of unnecessary abstractions. My development philosophy aligns with the Suckless movement: software should be simple, clear, and frugal.</p>
 </div>
 
+> **Note:**  [GitHub](https://github.com/initsyscall) is a **push mirror**. The source of truth is [Codeberg](https://codeberg.org/initsyscall).
+
 </br>
 
 ### Core Technical Competencies
@@ -32,5 +34,4 @@
 I am currently available for high-impact freelance projects or remote opportunities that require deep technical expertise in systems or performance-critical web applications.
 
 - **Email:** [initsyscall+business@gmail.com](mailto:initsyscall+business@gmail.com)
-- **Platforms:** [GitHub](https://github.com/initsyscall) | [Codeberg](https://codeberg.org/initsyscall)
-
+- **Platforms:** [GitHub](https://github.com/initsyscall) (mirror) | [Codeberg](https://codeberg.org/initsyscall) (source of truth)
