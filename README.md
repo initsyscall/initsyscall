@@ -2,36 +2,57 @@
   <img src="https://codeberg.org/avatars/281482a9d8a6f0159ed7e90346a78a5a135a740ecb0453ce1668ac81c3072a16" width="120" height="120" />
   <h1>initsyscall</h1>
   <p>Systems Programmer | Suckless Philosophy</p>
-  <p>I'm focused on low-level systems and high-efficiency architectures. I prioritize performance, memory safety, and the removal of unnecessary abstractions. My development philosophy aligns with the Suckless movement: software should be simple, clear, and frugal.</p>
+  <p>Pragmatist Engineering</p>
 </div>
+
+---
 
 > **Note:**  [GitHub](https://github.com/initsyscall) is a **push mirror**. The source of truth is [Codeberg](https://codeberg.org/initsyscall).
 
-</br>
+---
 
-### Core Technical Competencies
+### What I Believe
+
+An ideal program is not the one that is perfect on paper. It is the one that is modular, maintainable, functional, and works.
+
+**Engineer Pragmatism** — the wisdom to know the right tool for the right job, free from language bias. You may write a Rust todo app as a learning exercise, but for industry use, that is overkill. As engineers, we must think about the problem first, not the language.
+
+Temporary bad engineering choices equal long-term bad products.
+
+---
+
+### What I Do
 
 **Systems Programming**
-- High-performance implementation in <img src="https://skillicons.dev/icons?i=c" height="16" alt="C" />, <img src="https://skillicons.dev/icons?i=rust" height="16" alt="Rust" />, and <img src="https://skillicons.dev/icons?i=zig" height="16" alt="Zig" />.
-- Deep understanding of <img src="https://skillicons.dev/icons?i=linux" height="16" alt="Linux" /> internals, syscalls, and memory management.
-- Development of lightweight, robust system utilities.
-
-**Frontend Development (The Suckless Approach)**
-- Eschewing heavy frameworks (<img src="https://skillicons.dev/icons?i=react" height="16" alt="React" />/<img src="https://skillicons.dev/icons?i=nextjs" height="16" alt="Next.js" />) in favor of **Raw DOM manipulation**.
-- High-performance <img src="https://skillicons.dev/icons?i=js" height="16" alt="JavaScript" /> and optimized <img src="https://skillicons.dev/icons?i=css" height="16" alt="CSS" />.
-- Static server deployments with zero-overhead build steps.
+- High-performance implementations in C, Rust, and Zig.
+- Deep knowledge of Linux internals, syscalls, and memory management.
+- Lightweight, robust system utilities built to last.
 
 **DevOps and Scripting**
-- Advanced <img src="https://skillicons.dev/icons?i=linux" height="16" alt="Linux" /> administration and performance tuning.
-- Automation and configuration via <img src="https://skillicons.dev/icons?i=lua" height="16" alt="Lua" /> scripting.
-- Infrastructure as code with an emphasis on minimalist tooling.
+- Linux administration and performance tuning.
+- Lua for automation and configuration.
+- Minimalist tooling for infrastructure as code.
 
-### Current Research and Focus
-- <img src="https://skillicons.dev/icons?i=zig" height="16" alt="Zig" />: Mastering the language for production-ready systems.
-- <img src="https://skillicons.dev/icons?i=linux" height="16" alt="Linux" /> Internals: Deep-dive into kernel-space development and subsystem optimization.
+### What I'm Avoiding
 
-### Professional Engagement
-I am currently available for high-impact freelance projects or remote opportunities that require deep technical expertise in systems or performance-critical web applications.
+- Bad engineering choices that decay into bad products.
+- Over-engineering where simplicity wins.
+- Frameworks that solve problems you don't have.
 
-- **Email:** [initsyscall+business@gmail.com](mailto:initsyscall+business@gmail.com)
-- **Platforms:** [GitHub](https://github.com/initsyscall) (mirror) | [Codeberg](https://codeberg.org/initsyscall) (source of truth)
+---
+
+### Current Focus
+
+- **Zig** — mastering it for production-ready systems.
+- **Linux Internals** — kernel-space development and subsystem optimization.
+- **Cloud Infrastructure** — investing in Go and Rust for scalable, reliable systems.
+
+---
+
+### Let's Talk
+
+If you need deep technical expertise in systems or performance-critical applications:
+
+- **Email:** [initsyscall+contact@gmail.com](mailto:initsyscall+contact@gmail.com)
+- **Reddit:** [u/initsyscall](https://reddit.com/u/initsyscall)
+- **Codeberg:** [initsyscall](https://codeberg.org/initsyscall) · **GitHub:** [initsyscall](https://github.com/initsyscall) (mirror)
