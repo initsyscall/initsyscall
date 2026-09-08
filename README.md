@@ -19,6 +19,8 @@ An ideal program is not the one that is perfect on paper. It is the one that is 
 
 Temporary bad engineering choices equal long-term bad products.
 
+---
+
 ### Actively Working
 
 - miniGontainer: A small Go Linux container with the simple purpose of containerization.
