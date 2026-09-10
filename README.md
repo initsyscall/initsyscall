@@ -21,9 +21,10 @@ Temporary bad engineering choices equal long-term bad products.
 
 ---
 
-### Actively Working
+### Featured Repositories
 
-- miniGontainer: A small Go Linux container with the simple purpose of containerization.
+- **[miniGontainer](https://github.com/initsyscall/minigontainer)** — Gopher-sized container runtime. So small it fits in a gopher's cheek pouch.
+- **[gopherql](https://github.com/initsyscall/gopherql)** — A gopher-sized SQLite IDE for your small databases and learning, in a single binary. 
 
 ---
 
@@ -54,9 +55,7 @@ Temporary bad engineering choices equal long-term bad products.
 
 ---
 
-### Let's Talk
-
-If you need deep technical expertise in systems or performance-critical applications:
+### Contact
 
 - **Email:** [initsyscall+contact@gmail.com](mailto:initsyscall+contact@gmail.com)
 - **Reddit:** [u/initsyscall](https://reddit.com/u/initsyscall)
