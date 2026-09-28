@@ -25,6 +25,7 @@ Temporary bad engineering choices equal long-term bad products.
 
 - **[miniGontainer](https://github.com/initsyscall/minigontainer)** — Gopher-sized container runtime. So small it fits in a gopher's cheek pouch.
 - **[gopherql](https://github.com/initsyscall/gopherql)** — A gopher-sized SQLite IDE for your small databases and learning, in a single binary. 
+- **[there](https://github.com/initsyscall/there)** — cd there simply and deterministically written in lua in unix-y using fzf and jq, db is just a json on file system.
 
 ---
 
